@@ -1,1 +1,1 @@
-from .core import get_string_by_number
+from .converter import get_string_by_number
