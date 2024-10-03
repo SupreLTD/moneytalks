@@ -8,7 +8,7 @@ setup(
     long_description_content_type='text/markdown',
     author='Ivan Dovbnya',
     author_email='supreltd@gmail.com',
-    url='https://github.com/yourusername/moneytalks',
+    url='https://github.com/SupreLTD/moneytalks',
     packages=find_packages(),
     install_requires=[],
     license='GNU',
